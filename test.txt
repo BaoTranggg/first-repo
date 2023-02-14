@@ -1,2 +1,6 @@
 
+<<<<<<< HEAD
 Update with Tortoise...
+=======
+Updating with Bash...
+>>>>>>> b87bae3f64c772589122a3f9a9e3f105ae02174d
